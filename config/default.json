@@ -1,0 +1,4 @@
+{
+  "mongoURI":"mongodb+srv://eranlipi:$Eran0517@cluster0.f8bar.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken"
+}
